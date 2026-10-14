@@ -29,7 +29,8 @@ Olá! Atualmente estou focando os meus aprendizados em **Java**, desenvolvendo a
 ---
 
 ## 📊 Status GitHub
-
+<div>
+ <a href="
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermebernardo1&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebernardo1&layout=compact&theme=tokyonight" />
