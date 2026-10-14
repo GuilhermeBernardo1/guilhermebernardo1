@@ -10,13 +10,9 @@ Atualmente, estou desenvolvendo minhas habilidades em lógica de programação c
 ## 💨 Meus Perfis
 
 <p align="left">
-  <a href="https://github.com/guilhermebernardo1">
-    <img src="https://img.shields.io/badge/GitHub-guilhermebernardo1-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/gui.0zz">
-    <img src="https://img.shields.io/badge/Instagram-@gui.0zz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-  
+ <a href="https://instagram.com/gui.00z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermebernardo231021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
 </p>
 
 ---
@@ -25,6 +21,8 @@ Atualmente, estou desenvolvendo minhas habilidades em lógica de programação c
 # 🚀 Meus Estudo
 
 Olá! Atualmente estou focando os meus aprendizados em **Java**, desenvolvendo a minha lógica de programação e aprendendo a criar os meus primeiros códigos nesta linguagem.
+<div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 
 
 
@@ -33,8 +31,8 @@ Olá! Atualmente estou focando os meus aprendizados em **Java**, desenvolvendo a
 ## 📊 Status GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=guilhermebernardo1&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebernardo1&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guilhermebernardo1&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebernardo1&layout=compact&theme=tokyonight" />
 </p>
 
 ---
