@@ -35,6 +35,9 @@ Olá! Atualmente estou focando os meus aprendizados em **Java**, desenvolvendo a
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebernardo1&layout=compact&theme=tokyonight" />
 </p>
 
+<div aling="center">
+ <img src="https://raw.githubusercontent.com/GuilhermeBernardo1/guilhermebernardo1/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
