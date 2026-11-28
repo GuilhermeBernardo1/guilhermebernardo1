@@ -20,11 +20,12 @@ Atualmente, estou desenvolvendo minhas habilidades em lógica de programação c
 
 # 🚀 Meus Estudo
 
-Olá! Atualmente estou focando os meus aprendizados em **Java**, desenvolvendo a minha lógica de programação e aprendendo a criar os meus primeiros códigos nesta linguagem.
+Olá! Atualmente estou focando os meus aprendizados em varias, desenvolvendo a minha lógica de programação e aprendendo a criar os meus primeiros códigos nesta linguagem.
 <div style="display: inline_block"><br>
  <img align="center" alt="Gui-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
  <img align="center" alt="Gui-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
- 
+ <img align="center" alt="Gui-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img align="center" alt="Gui-Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
             
           
  
